@@ -2,8 +2,6 @@
 <!-- Optional: swap in the D2 logo once it's hosted publicly, e.g. in this repo at profile/logo.png -->
 <!-- <img src="logo.png" alt="Day Two Advisors" width="120" /> -->
  
-# Day Two Advisors
- 
 ### Day one is the idea. Day two is everything that comes after.
  
 Senior technology and finance leadership for tech companies past the idea stage.
