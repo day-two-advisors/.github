@@ -11,7 +11,6 @@ Senior technology and finance leadership for tech companies past the idea stage.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clint-nelissen)
  
 </div>
----
  
 ## 👋 Who we are
  
@@ -50,9 +49,10 @@ We're a Carlsbad, CA advisory firm that puts **technology and finance under one 
 ---
  
 <div align="center">
+
 **Ready for day two?** → [Let's talk](https://daytwoadvisors.com/#contact)
- 
+
 <sub>© Day Two Advisors · Carlsbad, California</sub>
- 
+
 </div>
  
